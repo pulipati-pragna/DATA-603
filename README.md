@@ -1,11 +1,16 @@
 # DATA-603 Assignment_1
 
-Create a markdown in your Github account discussing the following topics:
+BIG DATA WITH EXAMPLE AND TYPES
 
-- Big Data with example and types
-- 6 ‘V’s of Big Data (define each)
-- Phases of Big Data analysis (discuss each)
-- Challenges in Big Data analysis (discuss each)
+
+6 V'S OF BIG DATA (DEFINE EACH)
+
+
+PHASES OF BIG DATA ANALYSIS (DISUSS EACH)
+
+
+CHALLENGES IN BIG DATA ANALYSIS (DISCUSS EACH)
+
 
 Use your OWN words. Mention the source(s).
 Submit the link to the file (make sure your instructor and grader can access it).
