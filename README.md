@@ -25,7 +25,9 @@
 
 ## PHASES OF BIG DATA ANALYSIS (DISUSS EACH)
 
-**_Phase 1 / Data Acquisition and Recovery_** : 
+**_Phase 1 / Data Acquisition and Recovery_** : In this part of analysis, we obtain the real time data into the sources. From data generators such as IoT sensors, social media platforms, sattelite and etc, we can gather the data. Metadata is also one such data generator which consists of the details of the data such as location from which is data is being sent, the time at which it is sent and etc.
+
+**_Phase 2 / Information Extraction and Cleaning / Annotation_** : 
 
 ## CHALLENGES IN BIG DATA ANALYSIS (DISCUSS EACH)
 
