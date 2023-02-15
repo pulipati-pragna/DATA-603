@@ -27,10 +27,22 @@
 
 **_Phase 1 / Data Acquisition and Recovery_** : In this part of analysis, we obtain the real time data into the sources. From data generators such as IoT sensors, social media platforms, sattelite and etc, we can gather the data. Metadata is also one such data generator which consists of the details of the data such as location from which is data is being sent, the time at which it is sent and etc.
 
-**_Phase 2 / Information Extraction and Cleaning / Annotation_** : 
+**_Phase 2 / Information Extraction and Cleaning / Annotation_** : In this phase, we extract the required information from the data sources and demonstrate it in a structural and meaningful form. To obtain this, we need to clean the data and fill in the missing values. Identifying the outliers helps correcting the inconsistencies in the data.
+
+**_Phase 3 / Data Integration, Aggregation and Representation_*** : Here, we merge the data from different sources that have been extracted and cleaned in the previous phase. The data from all the sources cannot be expected to be homogeneous. These data can be represented in the form of box plot, bar graph, histogram or piechart for a better understanding.
+
+**_Phase 4 / Query Processing, Data Modeling and Analysis_** : We use query languages to query the data to retrieve useful subsets inorder ot understand various trends. An overall abstract of the data is organized into a model standardizing the relation between the data themselves. Data models can be represented as database model, entity relationship model, semantic data model and etc. In order to query the data, there are languages other than SQL.
+
+**_Phase 5 / Interpretation_** : From the obtained results after building a model and testing it, will be understood and verified which helps in the process of decision making and identifying trends. Even using visualization.
 
 ## CHALLENGES IN BIG DATA ANALYSIS (DISCUSS EACH)
 
+**_Challenge 1 / Heterogenity and Incompleteness_** : The machines expect the all of the gathered data to be homogeneous, and tend to cause ambiguity when there are differences or heterogenity in them. For semi-structured data, processing needs to be done in order to analyse them. Even after cleaning and correcting the data, errors and null values might remain and they must be taken care of in the further data analysis steps.
 
-Use your OWN words. Mention the source(s).
-Submit the link to the file (make sure your instructor and grader can access it).
+**_Challenge 2 / Scale_** : The amount of data being generated and stored is way bigger than the amount of data that is computed and analysed.
+
+**_Challenge 3 / Timeliness_** : When a model is run, we expect the results to be immediate and accurate. But for larger datasets, time is taken to fetch data, apply the rules and analyse the output and extract trends. The fetch time and analysis time would get easier if the data is homogeneous and structured.
+
+**_Challenge 4 / Privacy_** : On one side, we must protect the data but on the other hand, Using data sharing, data analysis is done without any regard to privacy of information. When the dataset is small, the issue of privacy was also not much to be worried about. But as the data increases, the issue of privacy concern also increases exponentially.
+
+**_Challenge 5 / Human Collaboration_** : In big data analysis, both computer and human analysis is involved. The model must be able to take reviews and inputs from the experts and explore the data for more favourable and precise outcomes. When the human analysis inputs are being gathered from various crowd sources, there is a high chance of error, uncertainity and confliction.
