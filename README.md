@@ -1,4 +1,4 @@
-# DATA-603 Assignment_1
+# Assignment_1
 
 
 ## BIG DATA WITH EXAMPLE AND TYPES
