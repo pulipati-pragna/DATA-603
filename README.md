@@ -46,3 +46,6 @@
 **_Challenge 4 / Privacy_** : On one side, we must protect the data but on the other hand, Using data sharing, data analysis is done without any regard to privacy of information. When the dataset is small, the issue of privacy was also not much to be worried about. But as the data increases, the issue of privacy concern also increases exponentially.
 
 **_Challenge 5 / Human Collaboration_** : In big data analysis, both computer and human analysis is involved. The model must be able to take reviews and inputs from the experts and explore the data for more favourable and precise outcomes. When the human analysis inputs are being gathered from various crowd sources, there is a high chance of error, uncertainity and confliction.
+
+
+__SOURCE - Introduction to Big Data Analytics, DATA603 Big Data Platforms, UMBC by Dr. Najam Hassan__
