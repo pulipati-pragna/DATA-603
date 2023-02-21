@@ -48,4 +48,4 @@
 **_Challenge 5 / Human Collaboration_** : In big data analysis, both computer and human analysis is involved. The model must be able to take reviews and inputs from the experts and explore the data for more favourable and precise outcomes. When the human analysis inputs are being gathered from various crowd sources, there is a high chance of error, uncertainity and confliction.
 
 
-__SOURCE - Introduction to Big Data Analytics, DATA603 Big Data Platforms, UMBC by Dr. Najam Hassan__
+_SOURCE - Introduction to Big Data Analytics, DATA603 Big Data Platforms, UMBC by Dr. Najam Hassan_
